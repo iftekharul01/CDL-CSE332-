@@ -1,0 +1,7 @@
+Q2. Consider given statements,
+    Dhaka University (DU) !!
+    Jahangirnagar University (JU) !!
+    Jagannath University (JnU) !!
+   
+    a) Show a flex file which can tokenize given statements.
+    b) Show a bison file which can parse given statements.

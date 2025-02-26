@@ -1,0 +1,23 @@
+Dhaka -> University Name
+ University -> University
+ ( -> LP 
+DU -> University Name Short Form
+) -> RP 
+ ! -> Special Character 
+! -> Special Character 
+
+Jahangirnagar -> University Name
+ University -> University
+ ( -> LP 
+JU -> University Name Short Form
+) -> RP 
+ ! -> Special Character 
+! -> Special Character 
+
+Jagannath -> University Name
+ University -> University
+ ( -> LP 
+JnU -> University Name Short Form
+) -> RP 
+ ! -> Special Character 
+! -> Special Character 
